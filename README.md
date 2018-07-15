@@ -1,2 +1,2 @@
 # web_charting
-In this assignment Earthqaukes data is taken from USGS GeoJSON feed page and is plotted on Leaflet maps. 
+In this assignment Earthqaukes data is taken from USGS GeoJSON feed page and is plotted on Leaflet maps. Data was collected for past 7 days and plotted on the map. The magnitude and color of the circle used to reporesent the magnitude of the earthquake. In part two tetonic plates is added to the map. The option to visulaize the data in both satelite, grayscale and outdoors are provided. In part three, a timeline is added to show the data of earth quakes is shown at the right time.
